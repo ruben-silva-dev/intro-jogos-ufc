@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 06eb83529fb06914eaea43a92e689be9
+timeCreated: 1468268124
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atirando_frente_strip8_0
+    21300002: atirando_frente_strip8_1
+    21300004: atirando_frente_strip8_2
+    21300006: atirando_frente_strip8_3
+    21300008: atirando_frente_strip8_4
+    21300010: atirando_frente_strip8_5
+    21300012: atirando_frente_strip8_6
+    21300014: atirando_frente_strip8_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: atirando_frente_strip8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133, y: 50}
+        - {x: -133, y: 0}
+        - {x: -50, y: 0}
+        - {x: -5, y: 16}
+        - {x: -5, y: 50}
+      - - {x: -99, y: 58}
+        - {x: -101, y: 56}
+        - {x: -101, y: 50}
+        - {x: -94, y: 41}
+        - {x: -88, y: 41}
+        - {x: -88, y: 45}
+        - {x: -92, y: 54}
+        - {x: -97, y: 58}
+      - - {x: -121, y: 47}
+        - {x: -119, y: 44}
+        - {x: -116, y: 43}
+        - {x: -113, y: 44}
+        - {x: -113, y: 46}
+        - {x: -116, y: 51}
+        - {x: -119, y: 51}
+        - {x: -121, y: 50}
+      - - {x: -118, y: 55}
+        - {x: -117, y: 52}
+        - {x: -114, y: 52}
+        - {x: -108, y: 56}
+        - {x: -109, y: 59}
+        - {x: -113, y: 59}
+      - - {x: -130, y: 61}
+        - {x: -127, y: 58}
+        - {x: -124, y: 59}
+        - {x: -124, y: 61}
+        - {x: -127, y: 64}
+        - {x: -129, y: 64}
+    - name: atirando_frente_strip8_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 14}
+        - {x: -53, y: 13}
+        - {x: -53, y: 11}
+        - {x: -49, y: 7}
+        - {x: -23, y: 6}
+        - {x: -1, y: 23}
+        - {x: -1, y: 43}
+        - {x: -31, y: 50}
+        - {x: -134, y: 50}
+        - {x: -134, y: 13}
+        - {x: -132, y: 9}
+        - {x: -128, y: 11}
+        - {x: -122, y: 15}
+        - {x: -121, y: 16}
+        - {x: -120, y: 15}
+        - {x: -120, y: 16}
+        - {x: -122, y: 15}
+        - {x: -127, y: 9}
+        - {x: -131, y: 5}
+        - {x: -132, y: 0}
+        - {x: -65, y: 0}
+        - {x: -57, y: 7}
+        - {x: -52, y: 15}
+        - {x: -53, y: 15}
+      - - {x: -96, y: 56}
+        - {x: -99, y: 53}
+        - {x: -99, y: 52}
+        - {x: -94, y: 47}
+        - {x: -92, y: 47}
+        - {x: -90, y: 49}
+        - {x: -90, y: 51}
+        - {x: -95, y: 56}
+      - - {x: -116, y: 58}
+        - {x: -119, y: 58}
+        - {x: -122, y: 53}
+        - {x: -122, y: 50}
+        - {x: -120, y: 49}
+        - {x: -117, y: 49}
+        - {x: -114, y: 54}
+        - {x: -114, y: 57}
+      - - {x: -106, y: 62}
+        - {x: -106, y: 59}
+        - {x: -102, y: 54}
+        - {x: -101, y: 54}
+        - {x: -98, y: 57}
+        - {x: -101, y: 64}
+        - {x: -104, y: 64}
+      - - {x: -129, y: 57}
+        - {x: -126, y: 58}
+        - {x: -126, y: 61}
+        - {x: -129, y: 62}
+        - {x: -131, y: 60}
+    - name: atirando_frente_strip8_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 46}
+        - {x: -101, y: 50}
+        - {x: -117, y: 50}
+        - {x: -132, y: 45}
+        - {x: -133, y: 40}
+        - {x: -133, y: 0}
+        - {x: -43, y: 0}
+        - {x: -5, y: 13}
+        - {x: -5, y: 45}
+        - {x: -16, y: 50}
+        - {x: -63, y: 50}
+        - {x: -65, y: 40}
+      - - {x: -125, y: 53}
+        - {x: -126, y: 51}
+        - {x: -126, y: 46}
+        - {x: -124, y: 45}
+        - {x: -122, y: 45}
+        - {x: -120, y: 48}
+        - {x: -120, y: 52}
+        - {x: -122, y: 54}
+      - - {x: -99, y: 60}
+        - {x: -101, y: 57}
+        - {x: -101, y: 56}
+        - {x: -96, y: 51}
+        - {x: -94, y: 51}
+        - {x: -91, y: 53}
+        - {x: -91, y: 56}
+        - {x: -97, y: 60}
+      - - {x: -108, y: 68}
+        - {x: -108, y: 63}
+        - {x: -107, y: 58}
+        - {x: -101, y: 58}
+        - {x: -101, y: 67}
+        - {x: -104, y: 68}
+    - name: atirando_frente_strip8_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 14}
+        - {x: -53, y: 13}
+        - {x: -53, y: 11}
+        - {x: -49, y: 7}
+        - {x: -23, y: 6}
+        - {x: -1, y: 22}
+        - {x: -1, y: 45}
+        - {x: -22, y: 52}
+        - {x: -119, y: 52}
+        - {x: -134, y: 31}
+        - {x: -134, y: 11}
+        - {x: -132, y: 9}
+        - {x: -128, y: 11}
+        - {x: -122, y: 15}
+        - {x: -121, y: 16}
+        - {x: -120, y: 15}
+        - {x: -120, y: 16}
+        - {x: -122, y: 15}
+        - {x: -127, y: 9}
+        - {x: -131, y: 5}
+        - {x: -132, y: 0}
+        - {x: -65, y: 0}
+        - {x: -57, y: 7}
+        - {x: -52, y: 15}
+        - {x: -53, y: 15}
+      - - {x: -131, y: 32}
+        - {x: -125, y: 32}
+        - {x: -125, y: 36}
+        - {x: -127, y: 38}
+        - {x: -129, y: 38}
+        - {x: -131, y: 37}
+      - - {x: -128, y: 46}
+        - {x: -128, y: 42}
+        - {x: -126, y: 40}
+        - {x: -123, y: 41}
+        - {x: -122, y: 48}
+        - {x: -124, y: 50}
+        - {x: -127, y: 49}
+      - - {x: -103, y: 60}
+        - {x: -102, y: 58}
+        - {x: -96, y: 57}
+        - {x: -93, y: 57}
+        - {x: -93, y: 62}
+        - {x: -94, y: 65}
+        - {x: -103, y: 65}
+      - - {x: -109, y: 71}
+        - {x: -111, y: 66}
+        - {x: -111, y: 61}
+        - {x: -106, y: 61}
+        - {x: -103, y: 67}
+        - {x: -103, y: 69}
+        - {x: -106, y: 71}
+    - name: atirando_frente_strip8_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 54}
+        - {x: -123, y: 54}
+        - {x: -131, y: 46}
+        - {x: -131, y: 0}
+        - {x: -22, y: 0}
+        - {x: -8, y: 12}
+        - {x: -8, y: 26}
+      - - {x: -129, y: 42}
+        - {x: -131, y: 37}
+        - {x: -131, y: 33}
+        - {x: -129, y: 31}
+        - {x: -125, y: 32}
+        - {x: -123, y: 38}
+        - {x: -123, y: 42}
+        - {x: -125, y: 43}
+      - - {x: -90, y: 44}
+        - {x: -90, y: 42}
+        - {x: -88, y: 40}
+        - {x: -85, y: 40}
+        - {x: -80, y: 44}
+        - {x: -81, y: 47}
+        - {x: -86, y: 47}
+      - - {x: -103, y: 65}
+        - {x: -105, y: 63}
+        - {x: -105, y: 60}
+        - {x: -102, y: 58}
+        - {x: -96, y: 58}
+        - {x: -95, y: 60}
+        - {x: -95, y: 63}
+        - {x: -97, y: 64}
+      - - {x: -111, y: 70}
+        - {x: -116, y: 67}
+        - {x: -116, y: 62}
+        - {x: -113, y: 61}
+        - {x: -110, y: 61}
+        - {x: -107, y: 64}
+        - {x: -107, y: 70}
+    - name: atirando_frente_strip8_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 14}
+        - {x: -53, y: 13}
+        - {x: -53, y: 11}
+        - {x: -49, y: 7}
+        - {x: -44, y: 7}
+        - {x: -1, y: 22}
+        - {x: 0, y: 24}
+        - {x: 0, y: 33}
+        - {x: -45, y: 53}
+        - {x: -53, y: 54}
+        - {x: -110, y: 54}
+        - {x: -133, y: 26}
+        - {x: -136, y: 17}
+        - {x: -136, y: 15}
+        - {x: -133, y: 13}
+        - {x: -131, y: 13}
+        - {x: -122, y: 15}
+        - {x: -121, y: 16}
+        - {x: -120, y: 15}
+        - {x: -120, y: 16}
+        - {x: -122, y: 15}
+        - {x: -127, y: 9}
+        - {x: -131, y: 5}
+        - {x: -132, y: 0}
+        - {x: -65, y: 0}
+        - {x: -57, y: 7}
+        - {x: -52, y: 15}
+        - {x: -53, y: 15}
+      - - {x: -131, y: 33}
+        - {x: -129, y: 31}
+        - {x: -126, y: 32}
+        - {x: -125, y: 36}
+        - {x: -128, y: 38}
+        - {x: -131, y: 35}
+      - - {x: -89, y: 49}
+        - {x: -92, y: 48}
+        - {x: -92, y: 43}
+        - {x: -90, y: 42}
+        - {x: -85, y: 42}
+        - {x: -82, y: 44}
+        - {x: -82, y: 49}
+      - - {x: -106, y: 65}
+        - {x: -107, y: 63}
+        - {x: -107, y: 61}
+        - {x: -105, y: 59}
+        - {x: -97, y: 59}
+        - {x: -97, y: 65}
+      - - {x: -114, y: 70}
+        - {x: -120, y: 66}
+        - {x: -120, y: 63}
+        - {x: -118, y: 62}
+        - {x: -113, y: 62}
+        - {x: -110, y: 66}
+        - {x: -110, y: 68}
+        - {x: -112, y: 70}
+    - name: atirando_frente_strip8_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: 54}
+        - {x: -131, y: 33}
+        - {x: -131, y: 0}
+        - {x: -50, y: 0}
+        - {x: -8, y: 12}
+        - {x: -8, y: 33}
+        - {x: -30, y: 54}
+      - - {x: -91, y: 51}
+        - {x: -93, y: 49}
+        - {x: -93, y: 47}
+        - {x: -91, y: 45}
+        - {x: -85, y: 45}
+        - {x: -83, y: 47}
+        - {x: -83, y: 49}
+        - {x: -85, y: 51}
+      - - {x: -107, y: 63}
+        - {x: -110, y: 62}
+        - {x: -110, y: 57}
+        - {x: -108, y: 56}
+        - {x: -103, y: 56}
+        - {x: -100, y: 58}
+        - {x: -100, y: 63}
+      - - {x: -127, y: 67}
+        - {x: -127, y: 64}
+        - {x: -125, y: 61}
+        - {x: -117, y: 61}
+        - {x: -117, y: 66}
+        - {x: -120, y: 67}
+    - name: atirando_frente_strip8_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 137
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 14}
+        - {x: -53, y: 13}
+        - {x: -53, y: 11}
+        - {x: -49, y: 7}
+        - {x: -44, y: 7}
+        - {x: -1, y: 22}
+        - {x: 0, y: 25}
+        - {x: 0, y: 33}
+        - {x: -23, y: 53}
+        - {x: -131, y: 53}
+        - {x: -136, y: 45}
+        - {x: -136, y: 15}
+        - {x: -133, y: 13}
+        - {x: -131, y: 13}
+        - {x: -122, y: 15}
+        - {x: -121, y: 16}
+        - {x: -120, y: 15}
+        - {x: -120, y: 16}
+        - {x: -122, y: 15}
+        - {x: -127, y: 9}
+        - {x: -131, y: 5}
+        - {x: -132, y: 0}
+        - {x: -65, y: 0}
+        - {x: -57, y: 7}
+        - {x: -52, y: 15}
+        - {x: -53, y: 15}
+      - - {x: -93, y: 46}
+        - {x: -94, y: 44}
+        - {x: -94, y: 39}
+        - {x: -90, y: 36}
+        - {x: -89, y: 36}
+        - {x: -86, y: 39}
+        - {x: -89, y: 46}
+      - - {x: -95, y: 55}
+        - {x: -97, y: 54}
+        - {x: -97, y: 51}
+        - {x: -96, y: 48}
+        - {x: -90, y: 47}
+        - {x: -87, y: 48}
+        - {x: -87, y: 51}
+        - {x: -89, y: 54}
+        - {x: -92, y: 55}
+      - - {x: -114, y: 58}
+        - {x: -114, y: 56}
+        - {x: -112, y: 54}
+        - {x: -109, y: 54}
+        - {x: -104, y: 58}
+        - {x: -105, y: 61}
+        - {x: -110, y: 61}
+      - - {x: -128, y: 63}
+        - {x: -127, y: 60}
+        - {x: -124, y: 59}
+        - {x: -121, y: 59}
+        - {x: -120, y: 61}
+        - {x: -121, y: 64}
+        - {x: -126, y: 65}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

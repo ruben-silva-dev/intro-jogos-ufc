@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 039e72bfdf9ffbc44a314fc7814a703f
+timeCreated: 1468267960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dando_facada_strip12_0
+    21300002: dando_facada_strip12_1
+    21300004: dando_facada_strip12_2
+    21300006: dando_facada_strip12_3
+    21300008: dando_facada_strip12_4
+    21300010: dando_facada_strip12_5
+    21300012: dando_facada_strip12_6
+    21300014: dando_facada_strip12_7
+    21300016: dando_facada_strip12_8
+    21300018: dando_facada_strip12_9
+    21300020: dando_facada_strip12_10
+    21300022: dando_facada_strip12_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dando_facada_strip12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 25}
+        - {x: -2, y: 31}
+        - {x: -9, y: 34}
+        - {x: -52, y: 48}
+        - {x: -69, y: 48}
+        - {x: -79, y: 38}
+        - {x: -84, y: 18}
+        - {x: -84, y: 0}
+        - {x: -39, y: 0}
+        - {x: -36, y: 5}
+        - {x: -3, y: 22}
+    - name: dando_facada_strip12_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 34}
+        - {x: -43, y: 48}
+        - {x: -66, y: 48}
+        - {x: -80, y: 27}
+        - {x: -80, y: 18}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -84, y: 6}
+        - {x: -84, y: 0}
+        - {x: -30, y: 0}
+        - {x: -3, y: 22}
+        - {x: -2, y: 25}
+        - {x: -2, y: 31}
+    - name: dando_facada_strip12_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 31}
+        - {x: -37, y: 48}
+        - {x: -69, y: 48}
+        - {x: -81, y: 44}
+        - {x: -83, y: 17}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -84, y: 6}
+        - {x: -84, y: 0}
+        - {x: -39, y: 0}
+        - {x: -36, y: 5}
+        - {x: -3, y: 22}
+        - {x: -2, y: 25}
+    - name: dando_facada_strip12_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 4}
+        - {x: -68, y: 0}
+        - {x: -9, y: 0}
+        - {x: -2, y: 2}
+        - {x: -2, y: 32}
+        - {x: -45, y: 48}
+        - {x: -70, y: 48}
+        - {x: -74, y: 40}
+        - {x: -83, y: 17}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -84, y: 6}
+        - {x: -84, y: 2}
+        - {x: -83, y: 0}
+        - {x: -72, y: 0}
+        - {x: -66, y: 6}
+        - {x: -61, y: 10}
+    - name: dando_facada_strip12_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 48}
+        - {x: -67, y: 48}
+        - {x: -80, y: 27}
+        - {x: -80, y: 18}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -83, y: 12}
+        - {x: -84, y: 10}
+        - {x: -84, y: 0}
+        - {x: -26, y: 0}
+        - {x: -23, y: 3}
+        - {x: -2, y: 23}
+        - {x: -2, y: 33}
+    - name: dando_facada_strip12_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 48}
+        - {x: -74, y: 48}
+        - {x: -99, y: 28}
+        - {x: -99, y: 13}
+        - {x: -88, y: 0}
+        - {x: -24, y: 0}
+        - {x: -3, y: 22}
+        - {x: -2, y: 22}
+        - {x: -2, y: 34}
+    - name: dando_facada_strip12_6
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 20}
+        - {x: -26, y: 18}
+        - {x: -30, y: 4}
+        - {x: -27, y: 0}
+        - {x: -26, y: 0}
+        - {x: -14, y: 5}
+        - {x: -2, y: 24}
+        - {x: -2, y: 31}
+        - {x: -9, y: 34}
+        - {x: -40, y: 49}
+        - {x: -101, y: 49}
+        - {x: -101, y: 19}
+        - {x: -100, y: 17}
+        - {x: -88, y: 0}
+        - {x: -36, y: 0}
+        - {x: -33, y: 16}
+        - {x: -38, y: 17}
+        - {x: -41, y: 16}
+    - name: dando_facada_strip12_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 5}
+        - {x: -22, y: 1}
+        - {x: -12, y: 1}
+        - {x: -2, y: 19}
+        - {x: -2, y: 35}
+        - {x: -41, y: 48}
+        - {x: -44, y: 47}
+        - {x: -53, y: 39}
+        - {x: -53, y: 37}
+        - {x: -52, y: 42}
+        - {x: -55, y: 49}
+        - {x: -100, y: 49}
+        - {x: -100, y: 18}
+        - {x: -88, y: 8}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -85, y: 5}
+        - {x: -83, y: 0}
+        - {x: -39, y: 0}
+      - - {x: -90, y: 13}
+        - {x: -87, y: 14}
+        - {x: -87, y: 17}
+        - {x: -90, y: 18}
+        - {x: -92, y: 16}
+      - - {x: -95, y: 20}
+        - {x: -92, y: 21}
+        - {x: -92, y: 24}
+        - {x: -95, y: 25}
+        - {x: -97, y: 23}
+      - - {x: -97, y: 31}
+        - {x: -99, y: 29}
+        - {x: -99, y: 27}
+        - {x: -97, y: 25}
+        - {x: -95, y: 25}
+        - {x: -93, y: 27}
+        - {x: -93, y: 29}
+        - {x: -95, y: 31}
+    - name: dando_facada_strip12_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 49}
+        - {x: -78, y: 49}
+        - {x: -84, y: 43}
+        - {x: -84, y: 28}
+        - {x: -83, y: 16}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -84, y: 6}
+        - {x: -84, y: 0}
+        - {x: -2, y: 0}
+        - {x: -2, y: 35}
+        - {x: -6, y: 44}
+      - - {x: -91, y: 49}
+        - {x: -93, y: 47}
+        - {x: -92, y: 43}
+        - {x: -87, y: 41}
+        - {x: -83, y: 41}
+        - {x: -81, y: 42}
+        - {x: -81, y: 46}
+        - {x: -86, y: 49}
+    - name: dando_facada_strip12_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -38, y: 18}
+        - {x: -33, y: 18}
+        - {x: -21, y: 19}
+        - {x: -3, y: 22}
+        - {x: -2, y: 24}
+        - {x: -2, y: 33}
+        - {x: -47, y: 48}
+        - {x: -65, y: 48}
+        - {x: -79, y: 27}
+        - {x: -80, y: 18}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -84, y: 6}
+        - {x: -84, y: 2}
+        - {x: -83, y: 0}
+        - {x: -26, y: 0}
+        - {x: -9, y: 2}
+        - {x: -20, y: 17}
+    - name: dando_facada_strip12_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 32}
+        - {x: -9, y: 39}
+        - {x: -52, y: 48}
+        - {x: -66, y: 48}
+        - {x: -79, y: 27}
+        - {x: -80, y: 18}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -84, y: 6}
+        - {x: -84, y: 2}
+        - {x: -83, y: 0}
+        - {x: -2, y: 0}
+    - name: dando_facada_strip12_11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 106
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 48}
+        - {x: -69, y: 48}
+        - {x: -84, y: 17}
+        - {x: -77, y: 15}
+        - {x: -74, y: 15}
+        - {x: -76, y: 15}
+        - {x: -81, y: 9}
+        - {x: -84, y: 6}
+        - {x: -84, y: 2}
+        - {x: -83, y: 0}
+        - {x: -21, y: 0}
+        - {x: -2, y: 21}
+        - {x: -2, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

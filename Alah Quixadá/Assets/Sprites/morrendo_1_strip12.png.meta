@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 43872eac20eb1504ebe2574fe2f3221a
+timeCreated: 1468267719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: morrendo_1_strip12_0
+    21300002: morrendo_1_strip12_1
+    21300004: morrendo_1_strip12_2
+    21300006: morrendo_1_strip12_3
+    21300008: morrendo_1_strip12_4
+    21300010: morrendo_1_strip12_5
+    21300012: morrendo_1_strip12_6
+    21300014: morrendo_1_strip12_7
+    21300016: morrendo_1_strip12_8
+    21300018: morrendo_1_strip12_9
+    21300020: morrendo_1_strip12_10
+    21300022: morrendo_1_strip12_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: morrendo_1_strip12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 37}
+        - {x: -46, y: 35}
+        - {x: -65, y: 47}
+        - {x: -79, y: 47}
+        - {x: -85, y: 45}
+        - {x: -89, y: 24}
+        - {x: -89, y: 15}
+        - {x: -84, y: 9}
+        - {x: -78, y: 12}
+        - {x: -80, y: 7}
+        - {x: -81, y: 2}
+        - {x: -77, y: 0}
+        - {x: -22, y: 0}
+        - {x: 0, y: 19}
+        - {x: 0, y: 34}
+    - name: morrendo_1_strip12_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 5}
+        - {x: 0, y: 30}
+        - {x: 0, y: 37}
+        - {x: -8, y: 40}
+        - {x: -38, y: 36}
+        - {x: -44, y: 34}
+        - {x: -69, y: 49}
+        - {x: -78, y: 49}
+        - {x: -87, y: 31}
+        - {x: -87, y: 14}
+        - {x: -85, y: 9}
+        - {x: -80, y: 3}
+        - {x: -77, y: 0}
+        - {x: -36, y: 0}
+    - name: morrendo_1_strip12_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 50}
+        - {x: -80, y: 48}
+        - {x: -86, y: 27}
+        - {x: -86, y: 5}
+        - {x: -83, y: 0}
+        - {x: -25, y: 0}
+        - {x: 0, y: 24}
+        - {x: 0, y: 39}
+        - {x: -55, y: 50}
+    - name: morrendo_1_strip12_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 50}
+        - {x: -84, y: 45}
+        - {x: -84, y: 5}
+        - {x: -82, y: 0}
+        - {x: -11, y: 0}
+        - {x: 0, y: 5}
+        - {x: 0, y: 30}
+        - {x: -29, y: 50}
+    - name: morrendo_1_strip12_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 48}
+        - {x: -71, y: 48}
+        - {x: -84, y: 27}
+        - {x: -84, y: 0}
+        - {x: -23, y: 0}
+        - {x: 0, y: 14}
+        - {x: 0, y: 23}
+        - {x: -1, y: 25}
+    - name: morrendo_1_strip12_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45}
+        - {x: -61, y: 45}
+        - {x: -80, y: 35}
+        - {x: -85, y: 24}
+        - {x: -85, y: 11}
+        - {x: -83, y: 6}
+        - {x: -81, y: 8}
+        - {x: -78, y: 10}
+        - {x: -77, y: 13}
+        - {x: -76, y: 15}
+        - {x: -74, y: 15}
+        - {x: -78, y: 11}
+        - {x: -78, y: 9}
+        - {x: -85, y: 4}
+        - {x: -85, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: 18}
+        - {x: -2, y: 23}
+    - name: morrendo_1_strip12_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 42}
+        - {x: -85, y: 5}
+        - {x: -83, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: 30}
+        - {x: -46, y: 42}
+    - name: morrendo_1_strip12_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -52, y: 38}
+        - {x: -74, y: 38}
+        - {x: -84, y: 17}
+        - {x: -84, y: 0}
+        - {x: -4, y: 0}
+        - {x: -2, y: 1}
+        - {x: -2, y: 5}
+    - name: morrendo_1_strip12_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -52, y: 38}
+        - {x: -74, y: 38}
+        - {x: -84, y: 17}
+        - {x: -84, y: 0}
+        - {x: -4, y: 0}
+        - {x: -2, y: 1}
+        - {x: -2, y: 5}
+    - name: morrendo_1_strip12_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 1}
+        - {x: -1, y: 8}
+        - {x: -43, y: 34}
+        - {x: -76, y: 34}
+        - {x: -85, y: 25}
+        - {x: -85, y: 3}
+        - {x: -82, y: 0}
+        - {x: -37, y: 0}
+        - {x: -36, y: 3}
+        - {x: -13, y: 0}
+        - {x: -2, y: 0}
+    - name: morrendo_1_strip12_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -42, y: 27}
+        - {x: -66, y: 27}
+        - {x: -75, y: 25}
+        - {x: -79, y: 22}
+        - {x: -83, y: 12}
+        - {x: -85, y: 6}
+        - {x: -85, y: 0}
+        - {x: -1, y: 0}
+        - {x: -1, y: 5}
+    - name: morrendo_1_strip12_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 90
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 26}
+        - {x: -56, y: 26}
+        - {x: -78, y: 21}
+        - {x: -86, y: 15}
+        - {x: -86, y: 0}
+        - {x: -1, y: 0}
+        - {x: -1, y: 8}
+        - {x: -3, y: 12}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
